@@ -1,0 +1,18 @@
+{
+  "expo": {
+   "name": "GoFinances",
+   "icon": "./src/icon.png",
+   "sdkVersion": "42.0.0",
+   "version": "1.0.0",
+   "slug": "GoFinances",
+   "scheme": "gofinances",
+   "ios": {
+     "bundleIdentifier": "com.agenciavela.gofinances",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.agenciavela.gofinances",
+     "versionCode": 1
+   }
+  }
+}
